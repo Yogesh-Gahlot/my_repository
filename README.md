@@ -1,4 +1,4 @@
 # my_repository
-this is my first git repositary.
+this is my first git repository.
 <br>
-Author - Yogesh kumar
+Author - Yogesh kumar Gahlot
